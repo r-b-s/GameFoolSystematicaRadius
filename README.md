@@ -1,4 +1,4 @@
 # FoolOnSystematicaRadius
-Card game "Fool" based on openReports of system SystematicaRadius.
+Card game "Fool" UI based on openReports of system SystematicaRadius.
 
 Radius Jongleur is required.
