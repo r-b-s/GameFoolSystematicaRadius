@@ -1,5 +1,5 @@
 # FoolOnSystematicaRadius
-Card game "Fool" UI based on openReports of system SystematicaRadius.
+Игра подкидной дурак в интерфейсе системы Systematica Radius.
 
 Need DB option "select into"=Y.
 
