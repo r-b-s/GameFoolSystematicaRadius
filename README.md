@@ -1,7 +1,7 @@
 # FoolOnSystematicaRadius
 Card game "Fool" UI based on openReports of system SystematicaRadius.
 
-Need option "select into"=Y.
+Need DB option "select into"=Y.
 
 Radius Jongleur is required.
 
@@ -10,5 +10,5 @@ Radius Jongleur is required.
 2) Give rights on openReports FlStart, FlConnect, FlAction
 
 # How to play
-0) (only first player) Run game using FlStart
-1) Run FlConnect
+1) (only first player) Run game using report FlStart
+2) Run report FlConnect
