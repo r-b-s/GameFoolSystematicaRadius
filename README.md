@@ -1,4 +1,4 @@
-# FoolOnSystematicaRadius
+# GameFoolSystematicaRadius
 Игра подкидной дурак в интерфейсе системы Systematica Radius.
 
 Need DB option "select into"=Y.
