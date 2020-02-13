@@ -1,5 +1,6 @@
 # GameFoolSystematicaRadius
 Игра подкидной дурак в интерфейсе системы Systematica Radius.
+(только мультиплеер)
 
 Need DB option "select into"=Y.
 
