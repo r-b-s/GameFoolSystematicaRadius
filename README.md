@@ -2,9 +2,10 @@
 Игра подкидной дурак в интерфейсе системы Systematica Radius.
 (только мультиплеер)
 
-Need DB option "select into"=Y.
-
-Radius Jongleur is required.
+Requirements:
+- Sybase ASE 15
+- DB option "select into"=Y.
+- Running Systematica Radius Jongleur 
 
 # Installation:
 1) Run Install.sql
