@@ -5,7 +5,7 @@
 Requirements:
 - Sybase ASE 15
 - DB option "select into"=Y.
-- Running Systematica Radius Jongleur 
+- Systematica Radius Jongleur (as queue broker)
 
 # Installation:
 1) Run Install.sql
