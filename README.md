@@ -1,6 +1,6 @@
 # GameFoolSystematicaRadius
 Игра подкидной дурак в интерфейсе системы Systematica Radius.
-(только мультиплеер)
+(пока только мультиплеер)
 
 Requirements:
 - Sybase ASE 15
